@@ -1,1 +1,1 @@
-# akwesiappiah-
+Isaac Nyarkoh Leadership Training School
