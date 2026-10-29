@@ -1,1 +1,1 @@
-Isaac Nyarkoh Leadership Training School
+Isaac Nyarkoh - Leadership Training School
