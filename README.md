@@ -1,4 +1,4 @@
-MY SELF
+<ins>MY SELF</ins> 
 
 My name is Isaac Nyarkoh, a Ghanaian citizen born on 26 January 1998 at Our Lady of Grace Hospital in Breman Asikuma, Central Region, Ghana. I currently reside at Tema, Community 1, Newtown, Block 2 Foreman. I consider myself disciplined, responsible, hardworking, and committed to honesty, integrity, respect, and personal development.
 
@@ -14,4 +14,5 @@ I am currently single and have no children, but I hope to start a family in the 
 I hereby declare that the information provided in this profile is true and accurate to the best of my knowledge.
 
 Sincerely,
+
 Isaac Nyarkoh
